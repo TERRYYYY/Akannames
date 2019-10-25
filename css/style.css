@@ -9,3 +9,7 @@ body{
     margin: 12% auto;
     padding: 20px 0;
 }
+.form-group{
+    position: relative;
+    margin-bottom: 1.5rem;
+}
