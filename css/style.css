@@ -2,9 +2,15 @@ body{
     background-image: url("https://bit.ly/2oeSNCk");
     background-attachment: fixed;
     background-size: cover;
+    
 }
+.twi{
+    color:white;
+    text-align: center;
+}
+
 .blur{
-    background: #262626;
+    background: white;
     width: 500px;
     margin: 12% auto;
     padding: 20px 0;
@@ -20,7 +26,15 @@ body{
     transition: 200ms;
     opacity: 0.5;
     font-family: haettenschweiler;
+    
 }
+.form-control:focus + .ph-area,
+.form-control:valid + .form-control {
+  font-size: 75%;
+  transform: translate3d(0, -100%, 0);
+  opacity: 1;
+}
+
 .radio{
-    color: white;
+    color: black;
 }
