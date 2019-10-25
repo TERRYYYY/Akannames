@@ -13,3 +13,14 @@ body{
     position: relative;
     margin-bottom: 1.5rem;
 }
+.ph-area{
+    position: absolute;
+    top: 0;
+    padding: 7px 0 0 13px;
+    transition: 200ms;
+    opacity: 0.5;
+    font-family: haettenschweiler;
+}
+.radio{
+    color: white;
+}
