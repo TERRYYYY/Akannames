@@ -3,3 +3,9 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+.blur{
+    background: #262626;
+    width: 500px;
+    margin: 12% auto;
+    padding: 20px 0;
+}
