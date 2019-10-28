@@ -10,13 +10,18 @@
 
 
 ## Description
--This project is to  show case the Ghanian names
+-This project is to  show case the Ghanian names. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order.
 
 ## Technologies used
 - HTML
 - CSS
 - Bootstrap
 - JAVASCRIPT
+
+## BDD
+ - This website will require a user to enter the day he\she was born and the year.
+ - The application will calculate the day of the week the user was born and output it.
+ - The user should choose the gender either male or female when you click on submit button in order to generate the Akan name
 
 ## Support & Contact
 - Incase of any Emergency you can contact 0741421079
