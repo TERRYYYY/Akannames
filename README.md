@@ -1,15 +1,26 @@
 # Akanna Names
 
+## Table of content
+- Description
+- Technologies used
+- BDD
+- Support & Contact
+- Author
+- Licence
+
+
 ## Description
 -This project is to  show case the Ghanian names
 
 ## Technologies used
 - HTML
 - CSS
+- Bootstrap
 - JAVASCRIPT
 
 ## Support & Contact
 - Incase of any Emergency you can contact 0741421079
+
 -Email: mukhtarabdirahmanm@gmail.com
 
 ## Author 
