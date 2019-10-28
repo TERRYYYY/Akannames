@@ -24,6 +24,13 @@
  - The application will calculate the day of the week the user was born and output it.
  - The user should choose the gender either male or female when you click on submit button in order to generate the Akan name
 
+## ScreenShot
+  <img src="./image/Screenshot from 2019-10-28 11-03-47.jpg" width="400"/>
+
+
+  <img src="./image/Screenshot from 2019-10-28 11-03-55.jpg" width="400"/>
+
+
 ## Support & Contact
 - Incase of any Emergency you can contact 0741421079
 
