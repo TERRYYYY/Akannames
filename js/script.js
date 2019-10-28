@@ -10,4 +10,8 @@ function hp (){
     let yy = parseInt(year)
 
     
+    let weekDay = new Date(yy + "/" + mm + "/" + dd);
+    let output = document.getElementById("output")
+    let finalResults = weekDay.getDay()
+    
     
